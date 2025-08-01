@@ -6,3 +6,5 @@ This is a simple console-based Python app that greets the user.
 
 ```bash
 python main.py
+
+"first comment"
